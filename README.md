@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 
 
-<!--
-**nhtlongcs/nhtlongcs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I’m @nhtlongcs. I’m a research assistant at the [HCMUS](https://www.hcmus.edu.vn/).
 
-Here are some ideas to get you started:
+🔭 I’m interested in large-scale data processing, distributed systems, and machine learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 My email: nhtlongcs@gmail.com
+
+🙋‍♂️ More about me: ✨ https://nhtlongcs.com/ ✨
+
+<!-- profile view count --> 
+<!-- center -->
+
+![](https://komarev.com/ghpvc/?username=nhtlongcs&color=blueviolet&style=flat-square)
