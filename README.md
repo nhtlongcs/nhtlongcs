@@ -20,6 +20,7 @@
 
 ### Recent activities
 <!--START_SECTION:activity-->
+1. Updating ...
 <!--END_SECTION:activity-->
 ---
 
