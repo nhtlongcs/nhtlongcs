@@ -20,7 +20,7 @@
 
 ### Recent activities
 <!--START_SECTION:activity-->
-1. Updating ...
+1. 💪 Opened PR [#6](https://github.com/ltkhiem/rckit/pull/6) in [ltkhiem/rckit](https://github.com/ltkhiem/rckit)
 <!--END_SECTION:activity-->
 ---
 
