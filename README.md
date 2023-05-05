@@ -20,7 +20,7 @@
 
 ### Recent activities
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/ltkhiem/rckit/pull/6) in [ltkhiem/rckit](https://github.com/ltkhiem/rckit)
+1. ❗️ Opened issue [#3](https://github.com/nhtlongcs/Basic-object-oriented-programming/issues/3) in [nhtlongcs/Basic-object-oriented-programming](https://github.com/nhtlongcs/Basic-object-oriented-programming)
 <!--END_SECTION:activity-->
 ---
 
