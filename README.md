@@ -20,7 +20,7 @@
 
 ### Recent activities
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com/nhtlongcs/Basic-object-oriented-programming/issues/3) in [nhtlongcs/Basic-object-oriented-programming](https://github.com/nhtlongcs/Basic-object-oriented-programming)
+1. ❗ Opened issue [#3](https://github.com/nhtlongcs/Basic-object-oriented-programming/issues/3) in [nhtlongcs/Basic-object-oriented-programming](https://github.com/nhtlongcs/Basic-object-oriented-programming)
 <!--END_SECTION:activity-->
 ---
 
