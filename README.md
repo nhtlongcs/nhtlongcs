@@ -20,7 +20,7 @@
 
 ### Recent activities
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#3](https://github.com/nhtlongcs/Basic-object-oriented-programming/issues/3) in [nhtlongcs/Basic-object-oriented-programming](https://github.com/nhtlongcs/Basic-object-oriented-programming)
+1. 🔒 Closed issue [#65](https://github.com/nhtlongcs/AIC2022-VER/issues/65) in [nhtlongcs/AIC2022-VER](https://github.com/nhtlongcs/AIC2022-VER)
 <!--END_SECTION:activity-->
 ---
 
