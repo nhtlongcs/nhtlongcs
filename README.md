@@ -20,7 +20,7 @@
 
 ### Recent activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/FSoft-AI4Code/CodeText-parser/pull/7#issuecomment-1751979749) in [FSoft-AI4Code/CodeText-parser](https://github.com/FSoft-AI4Code/CodeText-parser)
+1. ❗ Opened issue [#4](https://github.com/nhtlongcs/hpc-vnmese-documentation/issues/4) in [nhtlongcs/hpc-vnmese-documentation](https://github.com/nhtlongcs/hpc-vnmese-documentation)
 <!--END_SECTION:activity-->
 ---
 
