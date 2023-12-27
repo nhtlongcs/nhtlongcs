@@ -20,7 +20,7 @@
 
 ### Recent activities
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#4](https://github.com/nhtlongcs/hpc-vnmese-documentation/issues/4) in [nhtlongcs/hpc-vnmese-documentation](https://github.com/nhtlongcs/hpc-vnmese-documentation)
+1. 🚀 Published release [Release ](https://github.com/nhtlongcs/splitwords/releases/tag/1.0.1) in [nhtlongcs/splitwords](https://github.com/nhtlongcs/splitwords)
 <!--END_SECTION:activity-->
 ---
 
