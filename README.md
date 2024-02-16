@@ -20,7 +20,7 @@
 
 ### Recent activities
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Release ](https://github.com/nhtlongcs/splitwords/releases/tag/1.0.1) in [nhtlongcs/splitwords](https://github.com/nhtlongcs/splitwords)
+1. 🔒 Closed issue [#1](https://github.com/nhtlongcs/ucc-ai-quest-2023/issues/1) in [nhtlongcs/ucc-ai-quest-2023](https://github.com/nhtlongcs/ucc-ai-quest-2023)
 <!--END_SECTION:activity-->
 ---
 
