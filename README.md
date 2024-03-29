@@ -1,9 +1,9 @@
 ### Hi there 
 
 --- 
-👋 Hi, I’m @nhtlongcs. I’m a research assistant at the [HCMUS](https://www.hcmus.edu.vn/).
+👋 Hi, I’m @nhtlongcs. I’m a Ph.D. Student @ [DCU](https://www.dcu.ie/) | Ex-Researcher at [VNU HCMUS](https://www.hcmus.edu.vn/).
 
-🔭 I’m interested in large-scale data processing, distributed systems, and machine learning.
+🔭 I’m interested in information retrieval, large-scale data processing, and distributed systems.
 
 📫 My email: nhtlongcs@gmail.com
 
