@@ -20,7 +20,7 @@
 
 ### Recent activities
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1](https://github.com/nhtlongcs/ucc-ai-quest-2023/issues/1) in [nhtlongcs/ucc-ai-quest-2023](https://github.com/nhtlongcs/ucc-ai-quest-2023)
+1. 🎉 Merged PR [#1](https://github.com/nhtlongcs/latex-lecture/pull/1) in [nhtlongcs/latex-lecture](https://github.com/nhtlongcs/latex-lecture)
 <!--END_SECTION:activity-->
 ---
 
