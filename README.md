@@ -20,7 +20,7 @@
 
 ### Recent activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/nhtlongcs/latex-lecture/pull/1) in [nhtlongcs/latex-lecture](https://github.com/nhtlongcs/latex-lecture)
+1. ❗ Opened issue [#39](https://github.com/Gurobi/modeling-examples/issues/39) in [Gurobi/modeling-examples](https://github.com/Gurobi/modeling-examples)
 <!--END_SECTION:activity-->
 ---
 
