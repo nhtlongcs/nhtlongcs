@@ -20,7 +20,7 @@
 
 ### Recent activities
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#19](https://github.com/facebookresearch/lingua/issues/19) in [facebookresearch/lingua](https://github.com/facebookresearch/lingua)
+1. 🗣 Commented on [#19](https://github.com/facebookresearch/lingua/issues/19#issuecomment-2428752209) in [facebookresearch/lingua](https://github.com/facebookresearch/lingua)
 <!--END_SECTION:activity-->
 ---
 
