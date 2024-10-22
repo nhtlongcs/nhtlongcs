@@ -20,7 +20,7 @@
 
 ### Recent activities
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#39](https://github.com/Gurobi/modeling-examples/issues/39) in [Gurobi/modeling-examples](https://github.com/Gurobi/modeling-examples)
+1. ❗ Opened issue [#19](https://github.com/facebookresearch/lingua/issues/19) in [facebookresearch/lingua](https://github.com/facebookresearch/lingua)
 <!--END_SECTION:activity-->
 ---
 
