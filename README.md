@@ -20,7 +20,7 @@
 
 ### Recent activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19](https://github.com/facebookresearch/lingua/issues/19#issuecomment-2428752209) in [facebookresearch/lingua](https://github.com/facebookresearch/lingua)
+1. 🚀 Published release [Open beta](https://github.com/haile01/github-starred-list/releases/tag/0.0.1) in [haile01/github-starred-list](https://github.com/haile01/github-starred-list)
 <!--END_SECTION:activity-->
 ---
 
