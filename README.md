@@ -20,7 +20,7 @@
 
 ### Recent activities
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Open beta](https://github.com/haile01/github-starred-list/releases/tag/0.0.1) in [haile01/github-starred-list](https://github.com/haile01/github-starred-list)
+1. 🗣 Commented on [#1](https://github.com/haile01/github-starred-list/issues/1#issuecomment-2564801334) in [haile01/github-starred-list](https://github.com/haile01/github-starred-list)
 <!--END_SECTION:activity-->
 ---
 
