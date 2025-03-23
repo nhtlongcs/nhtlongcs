@@ -20,7 +20,7 @@
 
 ### Recent activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/haile01/github-starred-list/issues/1#issuecomment-2564801334) in [haile01/github-starred-list](https://github.com/haile01/github-starred-list)
+1. 🎉 Merged PR [#1](https://github.com/nhtlongcs/trackmate/pull/1) in [nhtlongcs/trackmate](https://github.com/nhtlongcs/trackmate)
 <!--END_SECTION:activity-->
 ---
 
