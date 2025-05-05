@@ -5,7 +5,7 @@
 
 🔭 I’m interested in information retrieval, large-scale data processing, and distributed systems.
 
-📫 My email: nhtlongcs@gmail.com
+📫 My email: contact@nhtlongcs.com
 
 🙋‍♂️ More about me: ✨ https://nhtlongcs.com/ ✨
 
