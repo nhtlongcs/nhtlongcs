@@ -20,7 +20,7 @@
 
 ### Recent activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/nhtlongcs/trackmate/pull/5) in [nhtlongcs/trackmate](https://github.com/nhtlongcs/trackmate)
+1. 💪 Opened PR [#6](https://github.com/nhtlongcs/trackmate/pull/6) in [nhtlongcs/trackmate](https://github.com/nhtlongcs/trackmate)
 <!--END_SECTION:activity-->
 ---
 
